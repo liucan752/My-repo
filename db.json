@@ -1,0 +1,34 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "张三",
+      "image_url": "https://example.com/images/student1.jpg",
+      "gender": "男",
+      "position": "班长",
+      "admission_date": "2021-09-01",
+      "graduation_date": "2025-06-30",
+      "actions": ["查看详情", "编辑", "删除"]
+    },
+    {
+      "id": 2,
+      "name": "李四",
+      "image_url": "https://example.com/images/student2.jpg",
+      "gender": "女",
+      "position": "学习委员",
+      "admission_date": "2021-09-01",
+      "graduation_date": "2025-06-30",
+      "actions": ["查看详情", "编辑", "删除"]
+    },
+    {
+      "id": 3,
+      "name": "王五",
+      "image_url": "https://example.com/images/student3.jpg",
+      "gender": "男",
+      "position": "体育委员",
+      "admission_date": "2022-09-01",
+      "graduation_date": "2026-06-30",
+      "actions": ["查看详情", "编辑", "删除"]
+    }
+  ]
+}
